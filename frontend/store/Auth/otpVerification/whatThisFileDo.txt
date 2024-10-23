@@ -1,0 +1,3 @@
+this otp verification slice takes client email and genrates a 6 digit code to 
+verify the email , after the code has been send it then verify if the code 
+the whole purpose of this folder is to verify the otp and if everything is correct 
